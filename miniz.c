@@ -1,4 +1,4 @@
-
+#include "miniz.h"
 // ------------------- End of Header: Implementation follows. (If you only want the header, define MINIZ_HEADER_FILE_ONLY.)
 
 #ifndef MINIZ_HEADER_FILE_ONLY
